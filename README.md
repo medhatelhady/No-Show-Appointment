@@ -3,7 +3,8 @@
 
 We recommend installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook. Here are the installation steps:
 
-Download the installer from https://www.anaconda.com/download/. Choose the Python 3.6 or higher version, and the appropriate 64/32-bit installer.
+* Download the installer from https://www.anaconda.com/download/.
+* Choose the Python 3.6 or higher version, and the appropriate 64/32-bit installer.
 
 
 ### python libraries
